@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - SwiftLocation (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftLocation
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftLocation
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+
+PODFILE CHECKSUM: 1229dd90c1990899cc4d11b90f17e7213176ac2c
+
+COCOAPODS: 1.8.4
